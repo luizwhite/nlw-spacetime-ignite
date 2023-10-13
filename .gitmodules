@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:luizwhite/nlw-spacetime-ignite-web.git
+[submodule "server"]
+	path = server
+	url = git@github.com:luizwhite/nlw-spacetime-ignite-server.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:luizwhite/nlw-spacetime-ignite-mobile.git
